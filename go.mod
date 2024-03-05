@@ -4,8 +4,8 @@ go 1.21.1
 
 require (
 	github.com/gin-gonic/gin v1.9.1
-	github.com/mitchellh/mapstructure v1.5.0
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.47.0
+
 )
 
 require (
